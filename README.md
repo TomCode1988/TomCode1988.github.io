@@ -9,7 +9,7 @@
 博客主题使用:[Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
 
 
-## 我的微信公众号
+## 我的微信公众号--待传
 
 ![](http://www.TomCode1988.com/assets/images/keeppuresmile_430.jpg)
 
